@@ -7,6 +7,8 @@
 
 ### Animated Neon Text Glow by HTML & CSS
 
+[![Watch the video]](https://youtube.com/shorts/XTtCAxpKk3Q?feature=share)
+
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -93,6 +95,9 @@
 ```
 
 ### Glass Animation by HTML & CSS
+
+[![Watch the video]](https://youtube.com/shorts/1GRZWLNE-Dk?feature=share)
+
 ```html
 
 <!DOCTYPE html>
@@ -233,6 +238,8 @@ body {
 ```
 
 ### Text Hover Blur Animation by HTMLS & CSS
+
+[![Watch the video]](https://www.youtube.com/shorts/_3vbvk5SGSs)
 
 ```html
 
