@@ -1,9 +1,9 @@
-<p align="center">
+<h1 align="center">
   <a href="https://www.youtube.com/@LearnWithSazzad">YouTube Channel</a> | 
   <a href="https://github.com/sazzadhossain1623/">Github</a> |
   <a href="https://www.facebook.com/LWS01">Facebook</a> |
   <a href="https://react-hook-form.com/faqs">FAQs</a> |
-</p>
+</h1>
 
 ### Animated Neon Text Glow by HTML & CSS
 
