@@ -7,7 +7,7 @@
 
 ### Animated Neon Text Glow by HTML & CSS
 
-```jsx
+```html
 <!DOCTYPE html>
 <html lang="en">
 
