@@ -7,7 +7,7 @@
 
 ### Animated Neon Text Glow by HTML & CSS
 
-[![Watch the video](https://github.com/sazzadhossain1623/HTML-CSS-Components/blob/main/images/neon.png)](https://youtube.com/shorts/XTtCAxpKk3Q?feature=share)
+[![Watch the video](Watch the Video)](https://youtube.com/shorts/XTtCAxpKk3Q?feature=share)
 
 ```html
 <!DOCTYPE html>
